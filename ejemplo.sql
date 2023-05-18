@@ -22,5 +22,3 @@ insert into instrumentosMusicales (tipo, instrumento, precio) values
 select * from instrumentosMusicales;
 
 select * from instrumentosMusicales;
-
--- Iris Te amo <3
