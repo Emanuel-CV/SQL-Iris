@@ -22,3 +22,13 @@ insert into instrumentosMusicales (tipo, instrumento, precio) values
 select * from instrumentosMusicales;
 
 select * from instrumentosMusicales;
+
+insert into instrumentosMusicales (tipo, instrumento, precio) values ('Cuerda', 'Ukulele', 85000);
+
+select * from instrumentosMusicales;
+
+delete from instrumentosmusicales where id = 5;
+
+select * from instrumentosMusicales;
+
+-- Amando mucho a Iris.
